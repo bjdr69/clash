@@ -21,6 +21,8 @@ DOMAIN,subn.neon-color.com
 DOMAIN,workers.neon-color.com
 DOMAIN,bpb.neon-color.com
 DOMAIN,api.ipify.org
+DOMAIN,api.neon-color.com
+DOMAIN,dl.openwrt.ai
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk
